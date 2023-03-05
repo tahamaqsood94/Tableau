@@ -1,4 +1,3 @@
-# Tableau
 # Tableau-Seattle-AirBnB-Analysis
 
 This repository contains a Tableau workbook for analyzing and visualizing data from Airbnb listings in Seattle and datasets. The purpose of this project is to gain insights into the factors that influence the price of Airbnb listings in Seattle.
